@@ -1,0 +1,35 @@
+Moyenne de temps à l'ancienne adresse:40.9171270718232 min
+Moyenne de temps à la nouvelle adresse:43.29834254143646 min
+
+Médiane de la distance à la nouvelle adresse: 2.57 km
+Médiane de la distance à l'ancienne adresse: 2.47 km
+
+Nombre de bénéficiaires qui se sont rapprochés de la nouvelle adresse: 261
+Nombre de bénéficiaires qui se sont éloignés de la nouvelle adresse: 282  
+
+Moyenne distance ancienne adresse: 4.09 km
+Moyenne distance nouvelle adresse: 4.17 km
+
+Quantiles distance ancienne adresse:
+0.25    1.202880
+0.50    2.467582
+0.75    3.803914
+
+Quantiles distance nouvelle adresse:
+0.25    1.655849
+0.50    2.573368
+0.75    3.421343
+
+Nombre de personnes par intervalle de temps de trajet(Nouvelle adresse) :
+intervalle_temps
+0-5 min            17
+5-10 min           32
+10-15 min          59
+15 min et plus    435
+
+Nombre de personnes par intervalle de temps de trajet(Ancienne adresse) :
+intervalle_temps
+0-5 min            45
+5-10 min           55
+10-15 min         104
+15 min et plus    339
